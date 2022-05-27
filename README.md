@@ -1,6 +1,6 @@
 # personal portfolio
 
-![image](img/sreenshot.PNG)
+![image](/IMG/sreenshot.png)
 
 _Author: PJ Perry_
 
