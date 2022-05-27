@@ -2,4 +2,19 @@ body{
  background-image: url("https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQzK50PVV0kVPu1nHpm-YjiegxNIsDEXVXGJg&usqp=CAU")
 
 
+
+}
+
+img {
+  width: 300px;
+  box-sizing: border-box;
+  padding: 0px;
+  margin: 20px;
+  border: 10px solid white;
+
+}
+
+p{
+  color: aliceblue;
+
 }
