@@ -9,18 +9,12 @@
 }
 
 .container{
-    width: 400 px;
-    height: auto;
-    justify-content: center;
-    align-items: center;
-    margin: 20px;
-    padding: 15px;
+   
     
 
 }
 
 body {
-
 background-color:  green;
 
 }
@@ -30,8 +24,9 @@ background-color:  green;
   float: top left;
   background-color: rgb(194, 145, 41);
   border: 5px solid rgb(0, 0, 0);
-  padding: 10px;
-  margin:auto
+  padding:left 10px;
+  margin:left 20px;
+
   border-width: 5px;
   
   font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;1
@@ -56,4 +51,14 @@ img {
   background-color: aliceblue;
 }
 
-
+.sidebar2 {
+  width: 20%;
+  float: center;
+  background-color: rgb(194, 145, 41);
+  border: 5px solid rgb(0, 0, 0);
+  padding: 10px;
+  margin:auto
+  border-width: 5px;
+  
+  font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;1
+}
