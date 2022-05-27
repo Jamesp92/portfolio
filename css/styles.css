@@ -16,6 +16,8 @@
 
 body {
 background-color:  green;
+align-items: center;
+padding:100px;
 
 }
 
@@ -52,13 +54,13 @@ img {
 }
 
 .sidebar2 {
-  width: 20%;
-  float: center;
-  background-color: rgb(194, 145, 41);
-  border: 5px solid rgb(0, 0, 0);
-  padding: 10px;
-  margin:auto
-  border-width: 5px;
-  
-  font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;1
+  position: top;
+  width: 250px;
+  height: 500px;
+  z-index: 99;
+  background-color: black;
+  margin-left: 900px;
+  margin-right:500px;
+  margin-bottom:2000px
+
 }
