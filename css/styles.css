@@ -1,6 +1,6 @@
 .h1 {
 
-  color:green;
+  color:rgb(2, 37, 2);
   text-align: center;
   font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
   
@@ -9,15 +9,51 @@
 }
 
 .container{
-    width:auto;
+    width: 400 px;
     height: auto;
-    align-items:center;
+    justify-content: center;
+    align-items: center;
     margin: 20px;
     padding: 15px;
-    border: 3px solid red;
-  
-
-  
-
+    
 
 }
+
+body {
+
+background-color:  green;
+
+}
+
+.sidebar {
+  width: 20%;
+  float: top left;
+  background-color: rgb(194, 145, 41);
+  border: 5px solid rgb(0, 0, 0);
+  padding: 10px;
+  margin:auto
+  border-width: 5px;
+  
+  font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;1
+}
+ .animal {
+      font-size: small;
+      font-family:'Times New Roman', Times, serif;
+      padding-bottom: 20px;
+
+ }
+  
+
+
+
+
+img {
+  width: 400px;
+  height: auto;
+  border:2px solid black;
+  padding:10px;
+  margin:15px;
+  background-color: aliceblue;
+}
+
+
