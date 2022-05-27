@@ -11,10 +11,15 @@ img {
   padding: 0px;
   margin: 20px;
   border: 10px solid white;
-
+  align:center;
 }
 
 p{
   color: aliceblue;
+  background-color: rgb(105, 63, 63);
+}
+
+.align{
+   align-items: center;
 
 }
