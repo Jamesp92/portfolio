@@ -9,18 +9,12 @@
 }
 
 .panini{
-
   /* border: 2px solid black; */
   padding: 25px;
   padding-top: 25px;
-  
-   
-    
-
 }
 
 body {
-
 align-items: center;
 padding:100px;
 background-image: url("https://production-cdn.patternbank.com/uploads/media/sources/000/005/373/1638374946/original/premium-header-2.jpg?1638374946")
@@ -35,16 +29,13 @@ background-image: url("https://production-cdn.patternbank.com/uploads/media/sour
   margin:left 500px;
   align-items: center;
   border-width: 3px;
-  
- 
-  
+  float: right;
   font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;1
 }
  .animal {
       font-size: small;
       font-family:'Times New Roman', Times, serif;
-      padding-bottom: 20px;
-
+     padding-bottom: 20px;
  }
   
 
@@ -61,13 +52,12 @@ img {
 }
 
 .sidebar2 {
-
   width: 300px;
   height: 100px;
   z-index: 99;
   background-color: rgb(204, 95, 95);
-  margin-left: px;
-  margin-right:500px;
+  margin-left:20px;
+  margin-right: 500px;
   border: 3px solid black;
 }
 
